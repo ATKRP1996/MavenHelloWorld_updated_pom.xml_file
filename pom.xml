@@ -137,11 +137,11 @@
                 </plugin>
                 <plugin>
                     <groupId>org.codehaus.mojo</groupId>
-                   2                    <artifactId>findbugs-maven-plugin</artifactId>
+                    <artifactId>findbugs-maven-plugin</artifactId>
                     <version>3.0.5</version>
                 </plugin>
                 <plugin>
-                   _SERVICE_1                    <groupId>org.codehaus.mojo</groupId>
+                    <groupId>org.codehaus.mojo</groupId>
                     <artifactId>taglist-maven-plugin</artifactId>
                     <version>3.0.0</version>
                 </plugin>
